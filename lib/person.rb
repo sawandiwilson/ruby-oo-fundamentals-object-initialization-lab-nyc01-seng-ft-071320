@@ -4,3 +4,4 @@ def initialize(Person)
   @name = name
 end
 
+def
