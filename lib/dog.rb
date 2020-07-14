@@ -1,1 +1,1 @@
-Class Person
+Class Dog
